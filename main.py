@@ -1,2 +1,2 @@
 print("B")
-print("Hola")
+print("Hola manco")
