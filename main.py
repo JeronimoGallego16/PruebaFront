@@ -1,3 +1,7 @@
 print("vamos por pizza")
+print("Buenas")
+print("Hola")
+print("NO quiero mas")
+print("A")
 print("B")
 print("Hola manco")
