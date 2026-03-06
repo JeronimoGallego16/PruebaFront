@@ -1,3 +1,6 @@
+print("Buenas")
+print("Hola")
+print("NO quiero mas")
 print("A")
 print("B")
-print("Buenas")
+print("Hola manco")
